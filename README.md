@@ -1,1 +1,1 @@
-# Beats Studio Buds+ DiffusionAnalysis
+# Beats Studio Buds+ Diffusion Analysis
