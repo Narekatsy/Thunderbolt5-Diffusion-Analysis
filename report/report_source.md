@@ -1,8 +1,11 @@
 # Marketing Analytics Project
 
 **Date:** 18.10.2024
+
 **Class Name:** DS223 Marketing Analytics
-**Project Name:** Beats Studio Buds+ Diffusion Analysis  
+
+**Project Name:** Beats Studio Buds+ Diffusion Analysis
+
 **Student Name:** Narek Hakobyan 
 
 ---
