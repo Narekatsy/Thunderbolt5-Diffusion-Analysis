@@ -40,7 +40,7 @@ The historical sales data for Apple AirPods from 2017 to 2022 is as follows:
 The values for 2021 and 2022 have been adjusted to exclude Beats sales to give a better indication of the performance of AirPods as a standalone product. The figures reflect remarkable growth since their launch with heavy year-on-year increases, reaching an estimated 58 million units in 2021 and 57 million in 2022.
 
 The graph below shows the annual sales of AirPods from 2017 to 2022.
-![Annual sales of AirPods (2017-2022)](img\airpods_annual_sales.png)
+![Annual sales of AirPods (2017-2022)](https://github.com/Narekatsy/Beats-Studio-Buds-Diffusion-Analysis/blob/main/img/airpods_annual_sales.png)
 
 #### Sources:
 - [Headphones Addict - AirPods Sales](https://headphonesaddict.com/airpods-facts-revenue/#How-many-AirPods-are-sold-each-year?)
@@ -66,7 +66,7 @@ The code **`beats_bass_model.py`** simulates the adoption using the Bass model w
 
 ### Adoption Curve
 The following graph illustrates the projected adoption of Beats Studio Buds+ over the next 10 years.
-![Projected Adoption of Beats Studio Buds+](img\beats_projected_adoption.png)
+![Projected Adoption of Beats Studio Buds+](https://github.com/Narekatsy/Beats-Studio-Buds-Diffusion-Analysis/blob/main/img/beats_projected_adoption.png)
 
 This graph represents the accumulated number of Beats Studio Buds+ adopters over a 10-year period. Initially, the rate of diffusion or adoption will be slow, but with more and more people being made aware of the product, it will increase gradually. Finally, due to the snowballing effect of social influence-particularly because of recommendations by current users-a sharp upward curve should be expected.
 
