@@ -32,5 +32,5 @@ The report provides:
 
 The report is available in:
 
-- **Markdown format**: report/report_source.md
-- **PDF format**: report/report.pdf
+- **Markdown format**: `report/report_source.md`
+- **PDF format**: `report/report.pdf`
