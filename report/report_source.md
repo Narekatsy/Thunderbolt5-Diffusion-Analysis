@@ -50,7 +50,7 @@ The graph below shows the annual sales of AirPods from 2017 to 2022.
 
 ## Estimating Bass Model parameters
 ### Estimation Process
-Using the discrete-time Bass diffusion model, I estimated the parameters \( p \), \( q \), and \( M \) using the code found in **`airpods_bass_model.py`**.
+Using the discrete-time Bass diffusion model, I estimated the parameters ***p***, ***q***, and **M** using the code found in **`airpods_bass_model.py`**.
 
 ### Estimated Parameters
 - **p (Coefficient of Innovation)**: 0.0381
