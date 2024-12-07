@@ -15,8 +15,8 @@ This project applies the Bass diffusion model to the adoption curve of Beats Stu
 ## How to Use
 Clone the repository:
    ```bash
-   git clone https://github.com/Narekatsy/Beats-Studio-Buds-Diffusion-Analysis
-   cd Beats-Studio-Buds-Diffusion-Analysis
+   git clone https://github.com/narekatsy/beats-studio-buds-diffusion-analysis
+   cd beats-studio-buds-diffusion-analysis
    ```
 
 ## Data Sources
